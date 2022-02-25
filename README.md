@@ -2,7 +2,9 @@
 
 ## Intro
 
-Practise project to Search for Product in the Database using JDBC
+Practise project to Search for Product in the Database using JDBC.
+
+The project was part of Simplilearn **Full Stack Java Developer Master Program** Phase (2).
 
 ## Technologies
 - Java EE
